@@ -1,0 +1,123 @@
+/* CHP 43 to 48 */
+
+/* Q2 starts here */
+
+
+
+/* body{
+    margin: 0;
+    padding: 0;
+}
+.mob{
+    display: flex;
+    flex-direction: row;margin-top: 100px;
+}
+.mob-var{
+    width: 400px;
+    height: 500px;
+}
+.mob-var img{
+    width: 100%;
+    height: 80%;
+}
+.mob-var button{
+    margin-left: 130px;
+    padding: 10px;
+    border-radius: 8px;
+    color: red;
+    background-color: lightgray;
+    font-weight: bold;
+} */
+
+
+
+/* Q2 ends here */
+
+
+
+
+
+/* Q3 start here */
+
+
+/* 
+.std-rec table tr td{
+    border: 1px solid black;
+    padding: 5px;
+}
+.table-btn{
+    border: none !important;
+} */
+
+
+
+
+/* Q3 ends here */
+
+
+
+
+
+/* Q5 starts here  */
+
+
+
+/* 
+.counter-table tr td {
+    border: 1px solid black;
+    padding: 20px;
+    cursor: pointer;
+} */
+
+
+
+/* Q5 ends here  */
+
+
+
+
+
+
+
+/* CHP 49 to 52 */
+
+/* Q1  starts here*/
+
+
+/* 
+#signup-form a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    border: 1px solid black;
+    background-color: lightgrey;
+    padding: 10px;
+    border-radius: 8px;
+    
+} */
+
+
+/* Q1 ends here*/
+
+
+
+
+
+/* Q3 starts here  */
+
+table tr th{
+    padding: 20px;
+}
+table tr td{
+    padding: 5px;
+    text-align: center;
+}
+table tr button{
+    padding: 5px;
+    text-align: center;
+    border-radius: 4px;
+}
+table tr button:hover{
+    background-color: burlywood;
+    color: white;
+}
